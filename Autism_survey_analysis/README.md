@@ -13,7 +13,7 @@ The goal of this project is to highlight my capabilities in data engineering and
 - Power BI (visualization)
 
 ## Process
-1. Converted `.sav` files to `.csv` using Python.
+1. Converted `.sav` files to `.csv` using Python (`scripts/convert_sav_to_csv.py`).
    
 
 ## Results
