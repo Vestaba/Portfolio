@@ -1,3 +1,7 @@
+
+# Portfolio
+Main repo for data projects
+
 # Project Name (Autism_survey_analysis)
 
 ## Overview
@@ -8,6 +12,7 @@ The goal of this project is to highlight my capabilities in data engineering and
 
 ## Tools Used
 - SQL Server (data storage and querying)
+- PostgreSQL
 - SSMS (writing queries and managing the database)
 - Python (data cleaning, transformation, and visualization)
 - Power BI (visualization)
@@ -25,3 +30,4 @@ Example:
 
 ## Next Steps
 Ideas for future improvements or extensions.
+6c8756f (Organized folders into Scripts and Images and synced README)
