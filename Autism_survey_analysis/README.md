@@ -26,7 +26,7 @@ The goal of this project is to highlight my capabilities in data engineering and
 Include screenshots, charts, or outputs.  
 Example:
 
-![Chart Example](images/chart1.png)
+(Images/08_mothers_age_sorted_count.png)
 
 ## Next Steps
 Ideas for future improvements or extensions.
