@@ -11,9 +11,10 @@ The goal of this project is to highlight my capabilities in data engineering and
 - SSMS (writing queries and managing the database)
 - Python (data cleaning, transformation, and visualization)
 - Power BI (visualization)
+- Git & GitHub
 
 ## Process
-1. Converted `.sav` files to `.csv` using Python (`scripts/convert_sav_to_csv.py`).
+1. Converted `.sav` files to `.csv` using Python (`scripts/convert_sav.py`).
    
 
 ## Results
