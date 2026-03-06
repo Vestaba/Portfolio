@@ -40,7 +40,7 @@ The goal of this project is to highlight my capabilities in data engineering and
 
 08 : Maternal Age Distribution
 This query confirms the successful type-casting of the Mothers_age column from a string to an integer, allowing for a sorted frequency distribution.
-![Maternal Age Analysis](Images/08_mothers_age_sorted_count.png)
+<img src="Images/08_mothers_age_sorted_count.png" width="600">
 
 ## Next Steps
 Ideas for future improvements or extensions.
