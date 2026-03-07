@@ -1,7 +1,3 @@
-
-# Portfolio
-Main repository for data projects
-
 # Project Name (Autism_survey_analysis)
 **An end-to-end data pipeline transforming raw clinical survey data into actionable SQL insights, uncovering a 100% correlation between family history and ASD diagnosis.**
 
@@ -33,11 +29,13 @@ efficiently processing raw datasets, transforming them for analysis, and generat
 ## Key Insights
 1. Sibling Correlation Breakdown
  - Every single participant with a sibling history of ASD also received a positive diagnosis, representing a 100% correlation in this sample.
+ 
    <img src="Images/03.1_report.png" width="40%">
 
 2. Maternal Age Distribution
  - By type-casting "Mothers_age" to an integer, I was able to sort and group the population. 
    The largest respondent group (age 21–35) shows the highest frequency of clinical reports.
+
    <img src="Images/03.2_report.png" width="40%">
    
 ## How to Run
