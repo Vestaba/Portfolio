@@ -7,4 +7,5 @@ The dataset was converted to `.csv` using a Python script (`scripts/convert_sav.
 ## Files
 
 - datasav.sav – original dataset in SPSS format
+- datasav.csv - original dataset in csv format before labeling
 - datasav_labeled.csv – converted dataset used for analysis 
