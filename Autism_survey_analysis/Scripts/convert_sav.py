@@ -1,3 +1,7 @@
+"""PROJECT: Autism Survey Data Transformation
+PURPOSE: Converts raw SPSS (.sav) research data into a labeled CSV format.
+LIBRARIES: pandas, pyreadstat"""
+
 import os
 import pyreadstat
 import pandas as pd
